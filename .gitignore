@@ -1,0 +1,18 @@
+**/pom.xml.versionsBackup
+**/target/
+**/out/
+**/log/
+*.class
+# Mobile Tools for Java (J2ME)
+.mtj.tmp/
+*.idea
+/nbproject
+*.ipr
+*.iws
+*.iml
+
+# Package Files #
+*.jar
+*.war
+*.ear
+*.log
